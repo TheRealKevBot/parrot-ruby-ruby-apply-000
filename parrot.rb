@@ -2,8 +2,9 @@
 # returns the phrase
 def parrot(bird = "Squawk!")
   puts "#{bird}"
+  print 
+
 end 
 
-print parrot()
 
 
